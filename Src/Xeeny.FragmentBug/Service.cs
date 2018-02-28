@@ -7,7 +7,6 @@ namespace Xeeny.FragmentBug
     {
         public void Accept(byte[] data)
         {
-            Thread.Sleep(100);
         }
     }
 }
